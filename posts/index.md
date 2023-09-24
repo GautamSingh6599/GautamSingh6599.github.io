@@ -6,12 +6,12 @@ author: Gautam Singh
 # Introduction
 Hello, this site is my corner of the internet. Sometimes I write about things I find interesting.
 
-## Writing
+## Writings
 1. [An Election Manifesto](../manifesto/index.html)
 2. [Mathematics Tidbits](./Mathematics.html)
 3. [Physics](./Physics.md)
 4. [Computer Science](./DSA.html)
-5. [Book That I want to read](./Book_Wish_List.html)
+5. [Books That I want to read](./Book_Wish_List.html)
 
 ## Contact
 1. Mail: [gautam6599123@gmail.com](mailto:gautam6599123@gmail.com)
