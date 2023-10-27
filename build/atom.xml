@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Gautam Singh</title>
+	<link href="https://barf.bt.ht/atom.xml" rel="self" />
+	<updated>2023-10-27T19:08:10Z</updated>
+	<author>
+		<name>Gautam Singh</name>
+	</author>
+	<id>https://barf.bt.ht,2023-09-17:default-atom-feed/</id>
+	<entry>
+		<title>First Post</title>
+		<content type="html">&lt;h1 id=&quot;first-post&quot;&gt;First Post&lt;/h1&gt;
+&lt;p&gt;2023-10-27&lt;/p&gt;</content>
+		<link href="https://barf.bt.ht/First_Post"/>
+		<id>https://barf.bt.ht/First_Post</id>
+		<updated>2023-10-27T10:00:00Z</updated>
+		<published>2023-10-27T10:00:00Z</published>
+	</entry>
+</feed>
