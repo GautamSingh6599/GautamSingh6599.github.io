@@ -1,3 +1,3 @@
-# GautamSingh6599.github.io
+# gautamSingh6599.github.io
 
 Personal Website
